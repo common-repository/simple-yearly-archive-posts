@@ -1,0 +1,640 @@
+/*
+Command
+----------------
+    + cd to relative path
+    + build: sass sass/main.scss css/main.css
+    + compress: sass sass/main.scss css/main.css --style compressed
+    + watch: sass sass/main.scss:css/main.css --watch
+*/
+.dnt-archive-posts[data-current-year-filter="1990"] .archive-posts-nav li[data-year="1990"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1990"] .archive-posts-nav li[data-year="1990"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1991"] .archive-posts-nav li[data-year="1991"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1991"] .archive-posts-nav li[data-year="1991"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1992"] .archive-posts-nav li[data-year="1992"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1992"] .archive-posts-nav li[data-year="1992"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1993"] .archive-posts-nav li[data-year="1993"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1993"] .archive-posts-nav li[data-year="1993"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1994"] .archive-posts-nav li[data-year="1994"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1994"] .archive-posts-nav li[data-year="1994"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1995"] .archive-posts-nav li[data-year="1995"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1995"] .archive-posts-nav li[data-year="1995"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1996"] .archive-posts-nav li[data-year="1996"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1996"] .archive-posts-nav li[data-year="1996"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1997"] .archive-posts-nav li[data-year="1997"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1997"] .archive-posts-nav li[data-year="1997"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1998"] .archive-posts-nav li[data-year="1998"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1998"] .archive-posts-nav li[data-year="1998"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="1999"] .archive-posts-nav li[data-year="1999"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="1999"] .archive-posts-nav li[data-year="1999"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2000"] .archive-posts-nav li[data-year="2000"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2000"] .archive-posts-nav li[data-year="2000"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2001"] .archive-posts-nav li[data-year="2001"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2001"] .archive-posts-nav li[data-year="2001"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2002"] .archive-posts-nav li[data-year="2002"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2002"] .archive-posts-nav li[data-year="2002"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2003"] .archive-posts-nav li[data-year="2003"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2003"] .archive-posts-nav li[data-year="2003"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2004"] .archive-posts-nav li[data-year="2004"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2004"] .archive-posts-nav li[data-year="2004"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2005"] .archive-posts-nav li[data-year="2005"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2005"] .archive-posts-nav li[data-year="2005"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2006"] .archive-posts-nav li[data-year="2006"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2006"] .archive-posts-nav li[data-year="2006"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2007"] .archive-posts-nav li[data-year="2007"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2007"] .archive-posts-nav li[data-year="2007"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2008"] .archive-posts-nav li[data-year="2008"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2008"] .archive-posts-nav li[data-year="2008"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2009"] .archive-posts-nav li[data-year="2009"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2009"] .archive-posts-nav li[data-year="2009"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2010"] .archive-posts-nav li[data-year="2010"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2010"] .archive-posts-nav li[data-year="2010"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2011"] .archive-posts-nav li[data-year="2011"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2011"] .archive-posts-nav li[data-year="2011"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2012"] .archive-posts-nav li[data-year="2012"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2012"] .archive-posts-nav li[data-year="2012"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2013"] .archive-posts-nav li[data-year="2013"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2013"] .archive-posts-nav li[data-year="2013"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2014"] .archive-posts-nav li[data-year="2014"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2014"] .archive-posts-nav li[data-year="2014"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2015"] .archive-posts-nav li[data-year="2015"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2015"] .archive-posts-nav li[data-year="2015"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2016"] .archive-posts-nav li[data-year="2016"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2016"] .archive-posts-nav li[data-year="2016"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2017"] .archive-posts-nav li[data-year="2017"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2017"] .archive-posts-nav li[data-year="2017"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2018"] .archive-posts-nav li[data-year="2018"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2018"] .archive-posts-nav li[data-year="2018"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2019"] .archive-posts-nav li[data-year="2019"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2019"] .archive-posts-nav li[data-year="2019"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2020"] .archive-posts-nav li[data-year="2020"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2020"] .archive-posts-nav li[data-year="2020"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2021"] .archive-posts-nav li[data-year="2021"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2021"] .archive-posts-nav li[data-year="2021"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2022"] .archive-posts-nav li[data-year="2022"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2022"] .archive-posts-nav li[data-year="2022"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2023"] .archive-posts-nav li[data-year="2023"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2023"] .archive-posts-nav li[data-year="2023"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2024"] .archive-posts-nav li[data-year="2024"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2024"] .archive-posts-nav li[data-year="2024"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2025"] .archive-posts-nav li[data-year="2025"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2025"] .archive-posts-nav li[data-year="2025"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2026"] .archive-posts-nav li[data-year="2026"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2026"] .archive-posts-nav li[data-year="2026"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2027"] .archive-posts-nav li[data-year="2027"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2027"] .archive-posts-nav li[data-year="2027"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2028"] .archive-posts-nav li[data-year="2028"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2028"] .archive-posts-nav li[data-year="2028"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2029"] .archive-posts-nav li[data-year="2029"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2029"] .archive-posts-nav li[data-year="2029"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2030"] .archive-posts-nav li[data-year="2030"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2030"] .archive-posts-nav li[data-year="2030"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2031"] .archive-posts-nav li[data-year="2031"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2031"] .archive-posts-nav li[data-year="2031"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2032"] .archive-posts-nav li[data-year="2032"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2032"] .archive-posts-nav li[data-year="2032"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2033"] .archive-posts-nav li[data-year="2033"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2033"] .archive-posts-nav li[data-year="2033"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2034"] .archive-posts-nav li[data-year="2034"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2034"] .archive-posts-nav li[data-year="2034"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2035"] .archive-posts-nav li[data-year="2035"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2035"] .archive-posts-nav li[data-year="2035"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2036"] .archive-posts-nav li[data-year="2036"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2036"] .archive-posts-nav li[data-year="2036"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2037"] .archive-posts-nav li[data-year="2037"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2037"] .archive-posts-nav li[data-year="2037"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2038"] .archive-posts-nav li[data-year="2038"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2038"] .archive-posts-nav li[data-year="2038"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2039"] .archive-posts-nav li[data-year="2039"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2039"] .archive-posts-nav li[data-year="2039"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2040"] .archive-posts-nav li[data-year="2040"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2040"] .archive-posts-nav li[data-year="2040"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2041"] .archive-posts-nav li[data-year="2041"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2041"] .archive-posts-nav li[data-year="2041"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2042"] .archive-posts-nav li[data-year="2042"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2042"] .archive-posts-nav li[data-year="2042"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2043"] .archive-posts-nav li[data-year="2043"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2043"] .archive-posts-nav li[data-year="2043"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2044"] .archive-posts-nav li[data-year="2044"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2044"] .archive-posts-nav li[data-year="2044"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2045"] .archive-posts-nav li[data-year="2045"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2045"] .archive-posts-nav li[data-year="2045"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2046"] .archive-posts-nav li[data-year="2046"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2046"] .archive-posts-nav li[data-year="2046"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2047"] .archive-posts-nav li[data-year="2047"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2047"] .archive-posts-nav li[data-year="2047"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2048"] .archive-posts-nav li[data-year="2048"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2048"] .archive-posts-nav li[data-year="2048"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2049"] .archive-posts-nav li[data-year="2049"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2049"] .archive-posts-nav li[data-year="2049"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2050"] .archive-posts-nav li[data-year="2050"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2050"] .archive-posts-nav li[data-year="2050"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2051"] .archive-posts-nav li[data-year="2051"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2051"] .archive-posts-nav li[data-year="2051"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2052"] .archive-posts-nav li[data-year="2052"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2052"] .archive-posts-nav li[data-year="2052"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2053"] .archive-posts-nav li[data-year="2053"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2053"] .archive-posts-nav li[data-year="2053"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2054"] .archive-posts-nav li[data-year="2054"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2054"] .archive-posts-nav li[data-year="2054"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2055"] .archive-posts-nav li[data-year="2055"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2055"] .archive-posts-nav li[data-year="2055"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2056"] .archive-posts-nav li[data-year="2056"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2056"] .archive-posts-nav li[data-year="2056"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2057"] .archive-posts-nav li[data-year="2057"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2057"] .archive-posts-nav li[data-year="2057"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2058"] .archive-posts-nav li[data-year="2058"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2058"] .archive-posts-nav li[data-year="2058"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2059"] .archive-posts-nav li[data-year="2059"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2059"] .archive-posts-nav li[data-year="2059"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2060"] .archive-posts-nav li[data-year="2060"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2060"] .archive-posts-nav li[data-year="2060"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2061"] .archive-posts-nav li[data-year="2061"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2061"] .archive-posts-nav li[data-year="2061"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2062"] .archive-posts-nav li[data-year="2062"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2062"] .archive-posts-nav li[data-year="2062"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2063"] .archive-posts-nav li[data-year="2063"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2063"] .archive-posts-nav li[data-year="2063"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2064"] .archive-posts-nav li[data-year="2064"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2064"] .archive-posts-nav li[data-year="2064"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2065"] .archive-posts-nav li[data-year="2065"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2065"] .archive-posts-nav li[data-year="2065"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2066"] .archive-posts-nav li[data-year="2066"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2066"] .archive-posts-nav li[data-year="2066"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2067"] .archive-posts-nav li[data-year="2067"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2067"] .archive-posts-nav li[data-year="2067"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2068"] .archive-posts-nav li[data-year="2068"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2068"] .archive-posts-nav li[data-year="2068"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2069"] .archive-posts-nav li[data-year="2069"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2069"] .archive-posts-nav li[data-year="2069"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2070"] .archive-posts-nav li[data-year="2070"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2070"] .archive-posts-nav li[data-year="2070"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2071"] .archive-posts-nav li[data-year="2071"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2071"] .archive-posts-nav li[data-year="2071"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2072"] .archive-posts-nav li[data-year="2072"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2072"] .archive-posts-nav li[data-year="2072"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2073"] .archive-posts-nav li[data-year="2073"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2073"] .archive-posts-nav li[data-year="2073"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2074"] .archive-posts-nav li[data-year="2074"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2074"] .archive-posts-nav li[data-year="2074"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2075"] .archive-posts-nav li[data-year="2075"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2075"] .archive-posts-nav li[data-year="2075"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2076"] .archive-posts-nav li[data-year="2076"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2076"] .archive-posts-nav li[data-year="2076"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2077"] .archive-posts-nav li[data-year="2077"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2077"] .archive-posts-nav li[data-year="2077"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2078"] .archive-posts-nav li[data-year="2078"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2078"] .archive-posts-nav li[data-year="2078"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2079"] .archive-posts-nav li[data-year="2079"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2079"] .archive-posts-nav li[data-year="2079"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2080"] .archive-posts-nav li[data-year="2080"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2080"] .archive-posts-nav li[data-year="2080"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2081"] .archive-posts-nav li[data-year="2081"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2081"] .archive-posts-nav li[data-year="2081"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2082"] .archive-posts-nav li[data-year="2082"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2082"] .archive-posts-nav li[data-year="2082"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2083"] .archive-posts-nav li[data-year="2083"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2083"] .archive-posts-nav li[data-year="2083"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2084"] .archive-posts-nav li[data-year="2084"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2084"] .archive-posts-nav li[data-year="2084"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2085"] .archive-posts-nav li[data-year="2085"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2085"] .archive-posts-nav li[data-year="2085"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2086"] .archive-posts-nav li[data-year="2086"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2086"] .archive-posts-nav li[data-year="2086"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2087"] .archive-posts-nav li[data-year="2087"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2087"] .archive-posts-nav li[data-year="2087"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2088"] .archive-posts-nav li[data-year="2088"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2088"] .archive-posts-nav li[data-year="2088"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2089"] .archive-posts-nav li[data-year="2089"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2089"] .archive-posts-nav li[data-year="2089"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2090"] .archive-posts-nav li[data-year="2090"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2090"] .archive-posts-nav li[data-year="2090"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2091"] .archive-posts-nav li[data-year="2091"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2091"] .archive-posts-nav li[data-year="2091"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2092"] .archive-posts-nav li[data-year="2092"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2092"] .archive-posts-nav li[data-year="2092"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2093"] .archive-posts-nav li[data-year="2093"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2093"] .archive-posts-nav li[data-year="2093"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2094"] .archive-posts-nav li[data-year="2094"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2094"] .archive-posts-nav li[data-year="2094"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2095"] .archive-posts-nav li[data-year="2095"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2095"] .archive-posts-nav li[data-year="2095"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2096"] .archive-posts-nav li[data-year="2096"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2096"] .archive-posts-nav li[data-year="2096"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2097"] .archive-posts-nav li[data-year="2097"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2097"] .archive-posts-nav li[data-year="2097"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2098"] .archive-posts-nav li[data-year="2098"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2098"] .archive-posts-nav li[data-year="2098"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2099"] .archive-posts-nav li[data-year="2099"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2099"] .archive-posts-nav li[data-year="2099"] a {
+    background-color: transparent; }
+.dnt-archive-posts[data-current-year-filter="2100"] .archive-posts-nav li[data-year="2100"] {
+  border: 1px solid #ccc;
+  border-bottom: transparent; }
+  .dnt-archive-posts[data-current-year-filter="2100"] .archive-posts-nav li[data-year="2100"] a {
+    background-color: transparent; }
+.dnt-archive-posts .archive-posts-nav {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 20px; }
+  .dnt-archive-posts .archive-posts-nav ul {
+    display: table;
+    margin: 0; }
+    .dnt-archive-posts .archive-posts-nav ul:after {
+      content: '';
+      display: block;
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      height: 1px;
+      background-color: #ccc; }
+    .dnt-archive-posts .archive-posts-nav ul li {
+      display: table-cell;
+      border: 1px solid transparent;
+      border-bottom-color: #ccc; }
+      .dnt-archive-posts .archive-posts-nav ul li:hover {
+        border-color: #ccc; }
+        .dnt-archive-posts .archive-posts-nav ul li:hover a {
+          background: #ccc; }
+      .dnt-archive-posts .archive-posts-nav ul li a {
+        box-shadow: none;
+        border: none;
+        text-decoration: none;
+        display: block;
+        padding: 10px;
+        outline: none; }
+.dnt-archive-posts .posts-list {
+  position: relative; }
+  .dnt-archive-posts .posts-list.loading:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0.7);
+    background-image: url("../images/loading.gif");
+    background-position: center center;
+    background-size: 50px;
+    background-repeat: no-repeat; }
+  .dnt-archive-posts .posts-list .post-wrapper {
+    margin-bottom: 15px; }
+    .dnt-archive-posts .posts-list .post-wrapper:last-child {
+      margin-bottom: 25px; }
+    .dnt-archive-posts .posts-list .post-wrapper .title, .dnt-archive-posts .posts-list .post-wrapper .date, .dnt-archive-posts .posts-list .post-wrapper .excerpt {
+      margin-bottom: 5px; }
+      .dnt-archive-posts .posts-list .post-wrapper .title p:last-child, .dnt-archive-posts .posts-list .post-wrapper .date p:last-child, .dnt-archive-posts .posts-list .post-wrapper .excerpt p:last-child {
+        margin-bottom: 0; }
+.dnt-archive-posts .posts-pagination a {
+  text-decoration: none;
+  border: 1px solid #ccc;
+  /*width: 25px;*/
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  min-width: 30px;
+  display: block;
+  float: left;
+  margin: 0 5px 5px 0;
+  box-shadow: none;
+  outline: none; }
+  .dnt-archive-posts .posts-pagination a.current {
+    background-color: #ccc; }
+  .dnt-archive-posts .posts-pagination a:hover {
+    text-decoration: none;
+    box-shadow: none;
+    background-color: #ccc; }
+  .dnt-archive-posts .posts-pagination a:focus, .dnt-archive-posts .posts-pagination a:active {
+    text-decoration: none;
+    box-shadow: none; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,124 @@
+/*
+Command
+----------------
+    + cd to relative path
+    + build: sass sass/main.scss css/main.css
+    + compress: sass sass/main.scss css/main.css --style compressed
+    + watch: sass sass/main.scss:css/main.css --watch
+----------------
+javascrip:
+uglifyjs main.js main.min.js --compress
+*/
+
+.dnt-archive-posts {
+    @for $i from 1990 through 2100 {
+        &[data-current-year-filter="#{$i}"] {
+            .archive-posts-nav li[data-year="#{$i}"] {
+                border: 1px solid #ccc;
+                border-bottom: transparent;
+                a {
+                    background-color: transparent;
+                }
+            }
+        }
+    }
+
+    .archive-posts-nav {
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 20px;
+        ul {
+            display: table;
+            margin: 0;
+            &:after {
+                content: '';
+                display: block;
+                width: 100%;
+                position: absolute;
+                bottom: 0;
+                height: 1px;
+                background-color: #ccc;
+            }
+            li {
+                display: table-cell;
+                border: 1px solid transparent;
+                border-bottom-color: #ccc;
+                &:hover {
+                    border-color: #ccc;
+                    a {
+                        background: #ccc;
+                    }
+                }
+                a {
+                    box-shadow: none;
+                    border: none;
+                    text-decoration: none;
+                    display: block;
+                    padding: 10px;
+                    outline: none;
+                }
+            }
+        }
+    }
+
+    .posts-list {
+        position: relative;
+        &.loading {
+            &:before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 999;
+                background-color: rgba(255, 255, 255, 0.7);
+                background-image: url('../images/loading.gif');
+                background-position: center center;
+                background-size: 50px;
+                background-repeat: no-repeat;
+            }
+        }
+        .post-wrapper {
+            margin-bottom: 15px;
+            &:last-child {
+                margin-bottom: 25px;
+            }
+            .title, .date, .excerpt {
+                margin-bottom: 5px;
+                p:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+
+    .posts-pagination {
+        a {
+            text-decoration: none;
+            border: 1px solid #ccc;
+            /*width: 25px;*/
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            min-width: 30px;
+            display: block;
+            float: left;
+            margin: 0 5px 5px 0;
+            box-shadow: none;
+            outline: none;
+            &.current {
+                background-color: #ccc;
+            }
+            &:hover {
+                text-decoration: none;
+                box-shadow: none;
+                background-color: #ccc;
+            }
+            &:focus, &:active {
+                text-decoration: none;
+                box-shadow: none;
+            }
+        }
+    }
+}
